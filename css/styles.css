@@ -1,0 +1,139 @@
+.navbar{font-family:"playfair display";
+font-weight: 400;
+padding-left:0}
+
+.navbar-brand{font-size: 1.5rem;
+padding-left: 0;
+color: #fce8d9;}
+
+#navigation{background-color: #1d89b5;
+color:white;
+position: fixed;
+z-index: 1;
+top:0;
+width:100%;
+text-align: left}
+
+.container-nav{
+padding: 5% 10% 0;
+font-size: 1rem;
+}
+
+.btn-outline-warning{font-family: "source sans pro";
+font-weight: 700;
+color:white;
+margin: 3% 4% 0 0}
+
+.btn-warning{font-family: "source sans pro";
+font-weight: 700;
+color:#555555;
+margin: 3% 4% 0 0}
+
+body{text-align: center;
+font-family: "source sans pro"}
+
+#intro{
+padding-top: 8%;
+background-color: #8fc9c3;
+color: white;
+}
+
+h1, h2, h3, h4, h5, h6{font-family: "source sans pro";
+font-weight: 700}
+
+h1{
+font-size: 4rem;
+padding-top:10%}
+
+h2{
+  font-size: 3rem;
+  padding-bottom: 4%
+}
+.h3-features{
+padding: 4% 0
+}
+
+.container-fluid{padding: 9% 10%}
+
+.stamp-pic{text-align: right;
+padding-right:5%;
+padding-top: 5%;
+width: 70%}
+
+/*
+.stamp-pic{filter:hue-rotate(120deg);
+  filter:brightness(8);
+  text-align: right;
+  padding-right:5%;
+transform: rotate(20deg);
+width: 60%;}
+*/
+
+.col-lg-6{padding:0}
+
+.palm-tree-pic{
+  width:30%;
+  border-radius: 50%
+}
+
+#locations{
+  background-color: #fce8d9;
+  color:#555555;
+  text-align: center
+}
+.locations-content{padding: 3% 8% 0}
+
+p{font-family:"source sans pro";
+font-size: 1.25rem}
+
+#features{background-color: #8fc9c3;
+color:white;
+text-align: center}
+
+.icons{font-size: 5rem;
+padding-top: 8%}
+
+.icons:hover{color:#005086}
+
+.features-content{padding: 0 5%}
+
+#services{background-color: #fce8d9;
+color:#555555;
+text-align: center}
+
+.services-table{margin:auto;
+  font-size: 1.25rem}
+
+table{text-align: center;
+margin-left: auto;
+margin-right: auto}
+
+td{padding:2% 5%}
+
+#pricing{background-color: #8fc9c3;
+color:white;
+text-align: center}
+
+.bundling-text{padding:0 10% 5%}
+
+.center-cards{margin:auto;
+  display: flex;
+    justify-content: center;}
+
+.card-title{padding-top: 4%}
+
+.card{padding: 4% 2%;
+margin: 2% .5%;
+width: 290px;
+color:#555555;}
+
+.card-body{padding: 0 10% 6%}
+
+.btn-info{font-family: "source sans pro";
+font-weight: 700}
+
+#travel-fees{background-color: #fce8d9;
+color:#555555;}
+
+#cta{background-color: #1d89b5;
+color:white;}
